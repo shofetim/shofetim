@@ -1,33 +1,37 @@
 # Hello! 👋I'm Jordan Schatz
 
-## 👨‍💻About Me
+## 👨‍💻 About Me
 
-I am a software engineer and entrepreneur. Previously I've been a CTO (multiple
-times), lead developer, consultant, ran my own software agency (twice), been a
-dev-ops consultant, worked in multiple startups, and ran a non-tech business.
+I am a software engineer and entrepreneur. Previously I've been CTO (multiple
+times), lead developer, consultant, ran my own software agency (twice), done
+DevOps consulting, worked in multiple startups, and ran a non-tech business.
 
-I, my wife, and six kids live in a yurt, in the mountains of Montana. We also
-like to travel extensively.
+I, my wife, and six kids live off grid, in a yurt, in the mountains of Montana.
+We also like to travel extensively.
 
 I like to discuss technology and business, if you want, drop me a line at
-jordan@noionlabs.com.
+jordan@jordanschatz.com.
 
-## 🔧Tech
 
-I've worked professionally in [many
-languages](https://jordanschatz.com/resume.html#:~:text=Technologies) but these
-days I prefer to focus on:
+## 🔧 Tech
 
-- [Rust](http://rust-lang.org/)
-- [C](https://www.c-language.org/)
-- [Janet](https://janet-lang.org/)
+I've worked professionally in many languages (PHP, Python, Clojure, Clojure
+Script, Javascript (server and client), Go, Racket, Schema, Janet, Rust and more.)
 
-## 🚀Projects
+These days I am focusing on Rust, building high performance system level
+software and web back ends. I also occasionally take on projects in C, Python,
+Javascript & Janet.
 
-- [Writing a newsletter](https://jordanschatz.com/writing.html)
-- [Triton Docker Cloud](https://tritondocker.cloud/)
 
-## 🧙‍♂️Consulting
+## 🚀 Projects
 
-I do DevOps & Cloud Migration (to the cloud, between clouds, out of the cloud)
-consulting.
+- [Writing technical content](https://jordanschatz.com/writing.html)
+- [Building a company](https://tritondocker.cloud/)
+
+
+## 🧙‍♂️ Consulting
+
+I do [DevOps, cloud, and performance consulting
+work](https://jordanschatz.com/), and I'd love to hear about your project. I
+tend to have a waiting list, so it may be a few months before I could address it
+though.
