@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello! 👋I'm Jordan Schatz
 
-<!--
-**shofetim/shofetim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻About Me
 
-Here are some ideas to get you started:
+I am a software engineer and entrepreneur. Previously I've been a CTO (multiple
+times), lead developer, consultant, ran my own software agency (twice), been a
+dev-ops consultant, worked in multiple startups, and ran a non-tech business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I, my wife, and six kids live in a yurt, in the mountains of Montana. We also
+like to travel extensively.
+
+I like to discuss technology and business, if you want, drop me a line at
+jordan@noionlabs.com.
+
+## 🔧Tech
+
+I've worked professionally in [many
+languages](https://jordanschatz.com/resume.html#:~:text=Technologies) but these
+days I prefer to focus on:
+
+- [Rust](http://rust-lang.org/)
+- [C](https://www.c-language.org/)
+- [Janet](https://janet-lang.org/)
+
+## 🚀Projects
+
+- [Writing a newsletter](https://jordanschatz.com/writing.html)
+- [Triton Docker Cloud](https://tritondocker.cloud/)
+
+## 🧙‍♂️Consulting
+
+I do DevOps & Cloud Migration (to the cloud, between clouds, out of the cloud)
+consulting.
