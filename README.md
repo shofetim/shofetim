@@ -1,4 +1,4 @@
-# Hello! 👋I'm Jordan Schatz
+# Hello! 👋 I'm Jordan Schatz
 
 ## 👨‍💻 About Me
 
